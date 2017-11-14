@@ -65,7 +65,7 @@ const styles = {
     },
 
     movieCoverImage: {
-        height: 300,
+        height: 600,
         flex: 1,
         // fills the div from edge to edge
         width: null

@@ -5,7 +5,7 @@ import MovieList from './src/components/MovieList';
 
 const App = () => (
     <View style={{ flex: 1 }}>
-      <Header headerText={'The Best Movies of All Time'} />
+      <Header headerText={'🎭 The Best Movies of All Time 🎬'} />
       <MovieList />
     </View>
 );
