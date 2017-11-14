@@ -1,4 +1,4 @@
-# Fetching API Data in React-Native
+# Fetching Data in React-Native
 
 ## What is this?
 
