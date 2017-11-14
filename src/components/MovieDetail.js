@@ -22,7 +22,7 @@ const MovieDetail = ({ movie }) => {
                 </View>
                 <View style={styles.headerContentStyle} >
                     <Text style={styles.headerTextStyle} >{title}</Text>
-                    <Text>{director}</Text>
+                    <Text>Director: {director}</Text>
                 </View>
             </CardItem>
             

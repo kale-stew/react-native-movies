@@ -12,7 +12,7 @@ class MovieList extends Component {
 
     componentWillMount() {
         // great place to initiate loading of data
-        axios.get('https://api.myjson.com/bins/cnqx7')
+        axios.get('https://api.myjson.com/bins/ruauj')
         .then(response => this.setState({ movies: response.data }));
         // passing an object of 'movies' into setState to be acted upon
     }
