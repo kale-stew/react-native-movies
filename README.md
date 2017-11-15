@@ -7,11 +7,13 @@ A simple React-Native app that loops over a hosted `.json` of data containing my
 ## What does it look like?
 
 #### ScrollView Functionality:
-<br>
+
+
 ![scroll](https://github.com/kale-stew/react-native-movies/blob/master/assets/scroll.gif)
 
 #### External Link Functionality:
-<br>
+
+
 ![links](https://github.com/kale-stew/react-native-movies/blob/master/assets/links.gif)
 
 ## What tech is used?
