@@ -6,7 +6,13 @@ A simple React-Native app that loops over a hosted `.json` of data containing my
 
 ## What does it look like?
 
+ScrollView Functionality:
+![scroll](https://github.com/kale-stew/react-native-movies/blob/master/assets/scroll.gif)
+
+External Link Functionality:
+![links](https://github.com/kale-stew/react-native-movies/blob/master/assets/links.gif)
+
 ## What tech is used?
+- axios
 - myJSON
 - react-native
-- axios
